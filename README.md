@@ -1,32 +1,31 @@
-
 ![header readme](./Docs/Banners/Novobanner.png)
 # _**API 2º Semestre - Tecnologia em Banco de Dados 2022**_
 
-## 📍 Sumário
-  * [Projeto API](#projeto-api)
-    * [Detalhes do projeto](#detalhes-do-projeto)   
-    * [Produto Khali](#produto)
-    * [Tecnologias](#tecnologias)
-    * [Fluxos e manual de utilização](#fluxos-e-manual-de-utilização)
-    * [Requisitos do projeto](#requisitos-do-projeto)
+## 📍 Summary
+  * [API Project](#api-project)
+    * [Project Details](#project-details)   
+    * [Khali Product](#product)
+    * [Technologies](#technologies)
+    * [Flows and Usage Manual](#flows-and-usage-manual)
+    * [Project Requirements](#project-requirements)
     * [Backlog](#backlog)
-    * [Entregas](#entregas)
+    * [Deliveries](#deliveries)
 
 <br>
 
-# _**Projeto API**_
+# _**API Project**_
 
-## **Equipe**
+## **Team**
 
 <br>
 
 ![people](./Docs/Banners/Equipe-Khali.png)  
 
 <details>
-<summary> Integrantes da Equipe Khali </summary>
+<summary> Khali Team Members </summary>
 <br>
 
-| Integrantes | Redes Sociais |
+| Members | Social Media |
 |-------|--------|
 |[Jhonatan Lopes](https://github.com/jhonatanlop) | <a href="https://www.linkedin.com/in/jhonatan-oliveira-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:jhooliveira.lopes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/jhonatan_lopes_lmao/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> |
 |[Marcos Malaquias](https://github.com/Incivius) | <a href="https://www.linkedin.com/in/marcos-malaquias-criatividade-%C3%A9-o-que-me-faz-ser-eu/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:vitchenso1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/mv.malaquias/?next=%2F" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> |
@@ -37,45 +36,51 @@
 </details>
 <br>
 
-## **Detalhes do projeto**
+## **Project Details**
 
-### Tema e objetivos
+### Theme and Objectives
 
-![problema](./Docs/Banners/ObejtivoFinal.png)  
+![problem](./Docs/Banners/ObejtivoFinal.png)  
 
-> * Aplicação desktop simples (CRUD).  
-> * Os requisitos devem proporcionar uma modelagem de Banco de Dados relacional.  
-> * A primeira entrega não deve envolver acesso ao Banco de Dados.  
+<div align="center">
+ 
+Simple desktop application (CRUD).  
+Requirements to provide a relational Database modeling.  
+The first delivery should not involve Database access.  
+
+</div>
 
 <details>
-<summary> Conhecimentos Exigidos </summary>
+<summary> Required Knowledge </summary>
 <br>
 
-> * Modelar Banco de Dados relacional
-> * Levantar e registrar Requisitos Funcionais e Não Funcionais usando técnicas de Métodos Ágeis e Tradicionais
-> * Projetar Arquitetura Lógica do Sistema
-> * Implementar Aplicação (com persistência) usando Linguagem de Programação Java Desktop
+* Relational Database modeling
+* Gathering and documenting Functional and Non-Functional Requirements using Agile and Traditional Methods techniques
+* Designing Logical Architecture of the System
+* Implementing Application (with persistence) using Java Desktop Programming Language
 
 </details>
 
 <details>
-<summary> Tríade da API </summary>
+<summary> API Triad </summary>
 <br>
 
-> * Linguagem de programação I, Modelagem e arquitetura de Banco de dados e Laboratório de desenvolvimento de Banco de Dados.
+* Programming Language I
+* Database Modeling and Architecture
+* Database Development Lab.
 
 </details>
 <details>
 
-<summary> Prazos </summary>
+<summary> Deadlines </summary>
 <br>
 
-* [x] 13/02 a 03/03 - Kick-off
-* [x] 13/03 a 02/04 - Sprint 1
-* [x] 03/04 a 23/04 - Sprint 2
-* [x] 24/04 a 14/05 - Sprint 3
-* [x] 15/05 a 04/06 - Sprint 4
-* [x] 13/06 a 14/06 - Feira de soluções
+* [x] 13/02 to 03/03 - Kick-off
+* [x] 13/03 to 02/04 - Sprint 1
+* [x] 03/04 to 23/04 - Sprint 2
+* [x] 24/04 to 14/05 - Sprint 3
+* [x] 15/05 to 04/06 - Sprint 4
+* [x] 13/06 to 14/06 - Solutions Exposition
 
 </details>
 <details>
@@ -93,32 +98,32 @@
 </details>
 <br> 
 
-# __*Produto*__
+# __*Product*__
 
-## **Tecnologias**
+## **Technologies**
 
 ![tools](./Docs/Banners/NovobannerTecnologias.png)
 
-## **Fluxos e manual de utilização**
+## **Flows and Usage Manual**
 
 <details>
-<summary> Wireframe do Produto </summary>
+<summary> Product Wireframe </summary>
 
-> * Fluxo do Usuário Colaborador
+* Collaborator User Flow
 
 https://user-images.githubusercontent.com/79020769/229376542-6ad0b8f7-d61d-47ab-93f5-1e40b159c8b6.mp4
 
-> * Fluxo do Usuário Gestor
+* Manager User Flow
 
 https://user-images.githubusercontent.com/79020769/229377143-7fabf142-0ccc-4ced-8f6c-5239deaa65c8.mp4
 
-> * Fluxo do Usuário Administrador
+* Administrator User Flow
 
 https://user-images.githubusercontent.com/79020769/229377162-bf07ebee-5a1c-4112-8bb1-ec22e0e94deb.mp4
 
 <br>
 
-> * [Wireframe completo no Figma](https://www.figma.com/file/Dj52xC9ivRB9TjDVtDcgh0/Wireframe_v2?node-id=36-1404&t=OMK6y94PUaXhuzYY-0)
+* [Complete Wireframe on Figma](https://www.figma.com/file/Dj52xC9ivRB9TjDVtDcgh0/Wireframe_v2?node-id=36-1404&t=OMK6y94PUaXhuzYY-0)
 
 <br>
 
@@ -126,7 +131,7 @@ https://user-images.githubusercontent.com/79020769/229377162-bf07ebee-5a1c-4112-
 </details>
 
 <details>
-<summary> Fluxograma do Produto </summary>
+<summary> Product Flowchart </summary>
 <br>
 
 [Figma](https://www.figma.com/file/CUEYlQV55LTSTeZUouoDqS/Fluxograma---API---2RP?node-id=1%3A2&t=uiDU6QFHUE06Vi8n-1)
@@ -135,17 +140,17 @@ https://user-images.githubusercontent.com/79020769/229377162-bf07ebee-5a1c-4112-
 </details>
 
 <details>
-<summary> ERD e Diagrama de Cardinalidade </summary>
+<summary> ERD and Cardinality Diagram </summary>
 <br>
 
-> ![31/03/2023 Release V3.0](./Docs/ERD/Diagrama%20-%20Banco%20de%20Dados%20para%20Apontamento%20de%20HorasV5.png)
+![31/03/2023 Release V3.0](./Docs/ERD/Diagrama%20-%20Banco%20de%20Dados%20para%20Apontamento%20de%20HorasV5.png)
 
-> ![Diagrama de Cardinalidades](./Docs/ERD/Diagrama%20de%20Cardinalidade.png)  
+![Diagrama de Cardinalidades](./Docs/ERD/Diagrama%20de%20Cardinalidade.png)  
 
 </details>
 
 <details>
-<summary> Vídeos com Funcionalidades </summary>
+<summary> Videos with Features </summary>
 
 
 https://user-images.githubusercontent.com/79020769/233886119-ace28f22-fccd-45e4-aaa3-85e3d52fce98.mp4
@@ -154,39 +159,31 @@ https://user-images.githubusercontent.com/79020769/233886119-ace28f22-fccd-45e4-
 </details>
 <br>
 
-## **Requisitos do projeto**
+## **Project Requirements**
 
 <details>
-<summary> Requisitos Funcionais </summary>
+<summary> Functional Requirements </summary>
 <br>
 
-> * Usuários devem ter perfis diferentes: administrador (acesso as informações de parametrização,
-extração de relatórios e aprovação), gestor (aprovação e lançamento) e colaborador (apontar
-horas);
-> * Apontamento de horas extras e classificação das horas;
-> * Lançamento de horas de sobreaviso;
-> * No lançamento da hora extra especificar cliente, CR (centro de resultado), projeto, solicitante e
-justificativa;
-> * Cadastro de clientes e CRs;
-> * Recurso para aprovação de horas extras executadas;
-> * Parametrização de sistema (período de fechamento das horas, percentual de classificação das
-horas extras e adicional noturno juntamente com as verbas salariais, definição dos horários de
-início e fim de horas noturnas);
-> * Extração de relatório csv de todos os colaboradores com as horas trabalhadas (matrícula, nome,
-verba, quantidade de horas, cliente, CR, projeto, justificativa);
-> * Aplicar regras de horas extras e sobreavisos na extração (classificação de HEs e cálculo do
-sobreaviso considerando as HEs conflitantes);
-> * Dashboard com acompanhamento em tempo real das horas extras executadas com filtro cliente,
-CR e colaborador.
+* Users must have different profiles: administrator (access to parameterization information, report extraction, and approval), manager (approval and input), and collaborator (registering hours);
+* Registration of overtime hours and classification of hours;
+* Entry of on-call hours;
+* In overtime hours registration, specify client, CR (cost center), project, requester, and justification;
+* Registration of clients and CRs;
+* Resource for approval of performed overtime hours;
+* System parameterization (closing period of hours, percentage of overtime classification and night shift together with salary allowances, definition of night hours start and end times);
+* Extraction of csv report of all employees with hours worked (registration number, name, allowance, number of hours, client, CR, project, justification);
+* Apply overtime and on-call rules in extraction (classification of overtime and calculation of on-call considering conflicting overtime);
+* Dashboard with real-time monitoring of performed overtime hours with filter for client, CR, and employee.
 </details>
 
 <details>
-<summary> Requisitos não funcionais </summary>
+<summary> Non-Functional Requirements </summary>
 <br>
 
-> * Linguagem Java (requisito Fatec)
-> * Banco de Dados Relacional (requisito Fatec)
-> * Documentações
+* Java Language (Fatec requirement)
+* Relational Database (Fatec requirement)
+* Documentation
 </details>
 <br> 
 
@@ -196,16 +193,16 @@ CR e colaborador.
 <summary> SPRINT 2: </summary>
 
 
-| COMO UM | PRECISO SER CAPAZ DE | PARA | PRIORIDADE |
+| AS A | I NEED TO | SO THAT | PRIORITY |
 |---------|----------------------|------|------------|
-| Colaborador e Gestor | apontar as minhas horas extras e sobreavisos no sistema | que meu salário seja corretamente calculado. | 1 | 
-| Colaborador e Gestor | consultar o meu histórico de apontamentos | acompanhar se foram registradores corretamente. | 2 |
-| Gestor | consultar o histórico de apontamentos da(s) minha(s) squad(s) | facilitar o controle dos respectivos horas extras e sobreavisos feitos. | 3 |
-| Administrador | acessar os apontamentos de hora extra e sobreaviso de cada colaborador | melhor acompanhamento do respectivo período trabalhado. | 4 |
-| Gestor | aprovar ou rejeitar os apontamentos de hora extra e sobreaviso dos colaboradores da(s) minha(s) squad(s) | barrar apontamentos inválidos. | 5 |
-| Colaborador | acessar a justificativa fornecida pelo meu gestor caso meu apontamento de hora extra ou sobreaviso seja recusado | que eu possa corrigi-lo. | 6 |
-| Colaborador e Gestor | acessar o estado dos meus apontamentos de hora extra e sobreaviso | ser capaz de estimar minha remuneração. | 7 |
-| Administrador | visualizar os apontamentos de todos os colaboradores | atender com o que foi combinado com os respectivos clientes. | 8 |
+| Collaborator and Manager | register my overtime and on-call hours in the system | my salary is correctly calculated | 1 | 
+| Collaborator and Manager | check my own registration history | keep track of my registrations | 2 |
+| Manager | check the registration history of my squad(s) | easier control of their overtime and on-call hours | 3 |
+| Administrator | access the overtime and on-call registration of each employee | better tracking of the respective working period | 4 |
+| Manager | approve or reject overtime and on-call registrations of my squad(s) | block invalid registrations | 5 |
+| Collaborator | access the justification provided by my manager if my overtime or on-call registration is rejected | correct it if necessary | 6 |
+| Collaborator and Manager | access the status of my overtime and on-call registrations | estimate my remuneration | 7 |
+| Administrator | view the registrations of all employees | comply with the agreements with respective clients | 8 |
 
 </details>
 
@@ -213,13 +210,13 @@ CR e colaborador.
 
 <summary> SPRINT 3: </summary>
 
- | COMO UM | PRECISO SER CAPAZ DE | PARA | PRIORIDADE |
+ | AS A | I NEED TO | SO THAT | PRIORITY |
  |---------|----------------------|------|------------|
- | Administrador | cadastrar colaboradores, gestores e administradores | que eu possa designá-los às permissões corretas no sistema. | 1 |
- | Administrador | cadastrar squads incluindo seus respectivos colaboradores e gestor | que os apontamentos sejam corretamente associados aos Centros de Resultado. |  2|
- | Administrador | cadastrar clientes | que sejam referenciados durante o apontamento de horas extras e sobreavisos. | 3 |
- | Administrador | configurar os parâmetros do sistema | que meus colaboradores sejam remunerados corretamente. | 4 |
- | Administrador | gerar relatórios CSV contendo as horas trabalhadas dos meus colaboradores | ter acesso aos dados fora do sistema. | 5 |
+ | Administrator | register employees, managers, and administrators | assign them the correct permissions in the system | 1 |
+ | Administrator | register squads including their respective employees and manager | registrations are correctly associated with the Cost Centers |  2|
+ | Administrator | register clients | they are referenced during overtime and on-call registration | 3 |
+ | Administrator | configure system parameters | my employees are correctly remunerated | 4 |
+ | Administrator | generate CSV reports containing the working hours of my employees | access data outside the system | 5 |
 
 </details>
 
@@ -228,56 +225,55 @@ CR e colaborador.
 <details>
 <summary> SPRINT 4: </summary>
 
- | COMO UM | PRECISO SER CAPAZ DE | PARA | PRIORIDADE |
+ | AS A | I NEED TO | SO THAT | PRIORITY |
  |---------|----------------------|------|------------|
- | Administrador | acessar um Dashboard com informações da jornada de trabalho de todos os meus colaboradores | melhor visualização e tratamento dos dados. | 1 |
- | Colaborador e Gestor | acessar um Dashboard com informações da minha jornada de trabalho | melhor visualização e tratamento dos dados. | 2 |
+ | Administrator | access a Dashboard with information about the working hours of all my employees | better visualization and handling of data | 1 |
+ | Collaborator and Manager | access a Dashboard with information about my working hours | better visualization and handling of data | 2 |
 
 </details>
 
-<br>
-
-## **Entregas**
+## **Deliveries**
 
 <details>
-<summary> SPRINT 1: Documentação </summary>
+<summary> SPRINT 1: Documentation </summary>
 
-> * Fluxograma.  
-> * Wireframe.  
-> * ERD e Diagrama de Entidade Relacionamento com Cardinalidade. 
-> * Backlog por Sprint.
-> * Burndown. 
-
-</details>
-
-<details>
-<summary> SPRINT 2: Apontamento de horas, listagem e aprovações </summary>
-
-> * Criação do sistema de apontamento de horas extras e sobreavisos pelos colaboradores e gestores.  
-> * Listagem, para colaborador e gestor, dos seus próprios apontamentos.
-> * Listagem, para gestor, dos apontamentos lançados pela(s) sua(s) squad(s).
-> * Funcionalidade de avaliação dos apontamentos pelo gestor.  
-> * Funcionalidade de retorno para colaborador do status do seu apontamento (pendente, aprovado ou reprovado) e feedback. 
-> * Funcionalidade de listagem para administrador dos apontamentos de todos os colaboradores.
+* Flowchart.
+* Wireframe.
+* Entity Relationship Diagram (ERD) with Cardinality.
+* Backlog per Sprint.
+* Burndown.
 
 </details>
 
 <details>
-<summary> SPRINT 3: Cadastro, parametrização e relatório </summary>
+<summary> SPRINT 2: Overtime Recording, Listing, and Approvals </summary>
 
-> * Sistema de cadastro de colaboradores, gestores e administradores.  
-> * Sistema de cadastro de squads.  
-> * Sistema de cadastro de clientes.  
-> * Funcionalidade de parametrização do sistema.  
-> * Funcionalidade de geração de relatórios CSV para o administrador.  
+* Creation of the overtime and on-call hour recording system for collaborators and managers.
+* Listing, for collaborators and managers, of their own registrations.
+* Listing, for managers, of the registrations made by their squad(s).
+* Functionality for managers to review the registrations.
+* Functionality for collaborators to view the status of their registrations (pending, approved, or rejected) and feedback.
+* Functionality for administrators to list the registrations of all employees.
+
+</details>
+
+<details>
+<summary> SPRINT 3: Registration, Parameterization, and Reports </summary>
+
+* System for registering collaborators, managers, and administrators.
+* System for registering squads.
+* System for registering clients.
+* System for system parameterization.
+* Functionality for administrators to generate CSV reports for the system.
 
 </details>
 
 <details>
 <summary> SPRINT 4: Dashboards </summary>
 
-> * Criação do Dashboard de colaborador.  
-> * Criação do Dashboard de gestor.  
-> * Criação do Dashboard de administrador.  
+* Creation of the Collaborator Dashboard.
+* Creation of the Manager Dashboard.
+* Creation of the Administrator Dashboard.
 
 </details>
+
